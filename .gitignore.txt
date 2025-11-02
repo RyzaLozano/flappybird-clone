@@ -1,0 +1,26 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders (if you have one)
+venv/
+env/
+.venv/
+
+# Pygame cache or temporary files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files (optional)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup files
+*.bak
+*.swp
