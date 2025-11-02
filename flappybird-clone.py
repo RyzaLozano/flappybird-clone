@@ -134,7 +134,7 @@ def score_update():
 #Game loop
 running = True
 while running:
-    clock.tick(60)
+    clock.tick(120)
 
     #Event handling
     for event in pygame.event.get():
